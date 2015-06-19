@@ -1,0 +1,22 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:400,400italic,700,700italic,300,300italic);
+@import url(http://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic,700italic);
+
+body#tinymce.wp-editor { 
+    font-family: "Noto Sans", Arial, sans-serif;
+    font-size: 15px;
+    color: #333;
+    line-height: 1.5;
+}
+
+body#tinymce.wp-editor a,
+body#tinymce.wp-editor a:visited {
+    color: #e67230;
+}
+#tinymce.wp-editor h1,
+#tinymce.wp-editor h2,
+#tinymce.wp-editor h3,
+#tinymce.wp-editor h4,
+#tinymce.wp-editor h5,
+#tinymce.wp-editor h6 {
+	font-family: "Roboto Condensed", Arial, sans-serif;
+}

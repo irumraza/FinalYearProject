@@ -1,0 +1,125 @@
+a, a:visited {
+    color: #41924B;
+}
+a:hover {
+    color: #2C8236;
+}
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+.btn.searchsubmit,
+.reply,
+.tags span {
+    border: 1px solid #368740;
+    -webkit-box-shadow: 0 1px 0 rgba(95, 140, 0, 0.5) inset, 0 1px 0 rgba(0, 0, 0, 0.15);
+    box-shadow: 0 1px 0 rgba(95, 140, 0, 0.5) inset, 0 1px 0 rgba(0, 0, 0, 0.15);
+    background: #41924b; /* Old browsers */
+    background: -moz-linear-gradient(top,  #41924b 0%, #41924b 50%, #297a38 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#41924b), color-stop(50%,#41924b), color-stop(100%,#297a38)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #41924b 0%,#41924b 50%,#297a38 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #41924b 0%,#41924b 50%,#297a38 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #41924b 0%,#41924b 50%,#297a38 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #41924b 0%,#41924b 50%,#297a38 100%); /* W3C */
+}
+button:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover,
+.btn.searchsubmit:hover,
+.reply:hover {
+    background: #297a38; /* Old browsers */
+    background: -moz-linear-gradient(top,  #297a38 0%, #41924b 50%, #41924b 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#297a38), color-stop(50%,#41924b), color-stop(100%,#41924b)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #297a38 0%,#41924b 50%,#41924b 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #297a38 0%,#41924b 50%,#41924b 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #297a38 0%,#41924b 50%,#41924b 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #297a38 0%,#41924b 50%,#41924b 100%); /* W3C */
+}
+.post-author-meta .nav-tabs > li.active > a,
+.post-author-meta .nav-tabs > li.active > a:hover,
+.post-author-meta .nav-tabs > li.active > a:focus,
+.post-author-meta .nav-tabs .active a,
+.nav.recent-posts-tabs .active,
+.nav.recent-posts-tabs li a:focus {
+    -webkit-box-shadow: 0 1px 0 rgba(95, 140, 0, 0.5) inset, 0 1px 0 rgba(0, 0, 0, 0.15);
+    box-shadow: 0 1px 0 rgba(95, 140, 0, 0.5) inset, 0 1px 0 rgba(0, 0, 0, 0.15);
+    background: #41924b; /* Old browsers */
+    background: -moz-linear-gradient(top,  #41924b 0%, #41924b 50%, #297a38 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#41924b), color-stop(50%,#41924b), color-stop(100%,#297a38)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #41924b 0%,#41924b 50%,#297a38 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #41924b 0%,#41924b 50%,#297a38 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #41924b 0%,#41924b 50%,#297a38 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #41924b 0%,#41924b 50%,#297a38 100%); /* W3C */    
+}
+.post-format-icon {
+    color: #41924B;
+}
+.phgal-carousel .slides .flex-active-slide {
+    border-color: #41924B;
+}
+.post-author-meta .nav.nav-tabs .active a {
+    background: #41924b; /* Old browsers */
+    background: -moz-linear-gradient(top,  #41924b 0%, #41924b 50%, #297a38 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#41924b), color-stop(50%,#41924b), color-stop(100%,#297a38)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #41924b 0%,#41924b 50%,#297a38 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #41924b 0%,#41924b 50%,#297a38 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #41924b 0%,#41924b 50%,#297a38 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #41924b 0%,#41924b 50%,#297a38 100%); /* W3C */ 
+}
+#footer-copy {
+    border-top: 2px solid #41924B;
+}
+.widgettitle {
+    color: #87E293;
+}
+.f-widgettitle > span {
+    border-bottom: 1px solid #41924B;
+}
+.social-profiles li:hover,
+#wp-calendar thead tr,
+.mejs-container,
+.mejs-embed, .mejs-embed body,
+.mejs-container .mejs-controls,
+#mainmenu .dropdown-menu > .active > a:hover,
+#mainmenu .dropdown-menu > .active > a:focus,
+#mainmenu .dropdown-menu > li > a:hover,
+#mainmenu .dropdown-menu > li > a:focus {
+    background: #41924B !important;
+}
+/* Nav */
+#mainmenu .navbar-default .navbar-nav > li > a:hover,
+#mainmenu .navbar-default .navbar-nav > li > a:focus,
+#mainmenu .navbar-nav .active a {
+    color: #FFF;
+    border-color: #42894A;
+    background: #41924b; /* Old browsers */
+    background: -moz-linear-gradient(top,  #41924b 0%, #41924b 50%, #297a38 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#41924b), color-stop(50%,#41924b), color-stop(100%,#297a38)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #41924b 0%,#41924b 50%,#297a38 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #41924b 0%,#41924b 50%,#297a38 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #41924b 0%,#41924b 50%,#297a38 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #41924b 0%,#41924b 50%,#297a38 100%); /* W3C */    
+}
+#mainmenu .open > .dropdown-menu {
+    border-bottom: 3px solid #368740;
+}
+/* Pagination */
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
+    background-color: #41924b;
+    border-color: #368740;
+}
+.car-prev:hover, .car-next:hover {
+    border: 1px solid #41924B;
+    color: #41924B;
+}
+.menu-centered-pills #mainmenu .menu-item a,
+.menu-centered-pills #mainmenu .menu-item a:visited {
+    background-color: rgba(25, 25, 25, .9);
+    color: #FFF;
+}

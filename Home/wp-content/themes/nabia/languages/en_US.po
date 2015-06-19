@@ -1,0 +1,1616 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nabia 1.0\n"
+"POT-Creation-Date: 2014-11-11 13:22+0200\n"
+"PO-Revision-Date: 2014-11-11 13:22+0200\n"
+"Last-Translator: Zenoth.com <contact@zenoth.com>\n"
+"Language-Team: Zenoth.com <contact@zenoth.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:26
+msgid "404"
+msgstr ""
+
+#: ../404.php:30
+msgid "Page Not Found"
+msgstr ""
+
+#: ../404.php:32
+msgid ""
+"The page you are looking for might have been removed, had its name changed, "
+"or is temporarily unavailable. Please try using the search box above to "
+"search for the desired page."
+msgstr ""
+
+#: ../archive.php:33
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:36
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:36
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:39
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:39
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:42 ../functions/general.php:68 ../page-archives.php:28
+#: ../taxonomy-post_format.php:70
+msgid "Archives"
+msgstr ""
+
+#: ../author.php:29
+#, php-format
+msgid "All posts by %s (%u)"
+msgstr ""
+
+#: ../author.php:37
+msgid "Website:"
+msgstr ""
+
+#: ../category.php:29
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: ../comments.php:25
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:33
+#, php-format
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:35
+#, php-format
+msgid "Showing %s most recent"
+msgstr ""
+
+#: ../comments.php:44
+msgid "&lsaquo; Previous"
+msgstr ""
+
+#: ../comments.php:44
+msgid "Next &rsaquo;"
+msgstr ""
+
+#: ../comments.php:52
+#, php-format
+msgid "Sorry, comments are closed for this %s."
+msgstr ""
+
+#: ../comments.php:63
+msgid "Required"
+msgstr ""
+
+#: ../comments.php:68
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:71
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:74 ../single.php:121
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:78
+msgid "Leave a comment"
+msgstr ""
+
+#: ../comments.php:79
+msgid "Your message"
+msgstr ""
+
+#: ../comments.php:82
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:83
+msgid "Submit"
+msgstr ""
+
+#: ../content-missing.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-missing.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-missing.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: ../content-missing.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content.php:19 ../functions/general.php:305 ../functions/general.php:313
+#: ../functions/general.php:321
+msgid "Read More"
+msgstr ""
+
+#: ../functions/filters.php:43
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../functions/filters.php:406
+#, php-format
+msgid "Built with Nabia Theme %s"
+msgstr ""
+
+#: ../functions/general.php:136
+msgid "First page"
+msgstr ""
+
+#: ../functions/general.php:139
+msgid "Previous page"
+msgstr ""
+
+#: ../functions/general.php:150
+msgid "Next page"
+msgstr ""
+
+#: ../functions/general.php:152
+msgid "Last page"
+msgstr ""
+
+#: ../functions/general.php:281
+msgid "Page"
+msgstr ""
+
+#: ../functions/general.php:378
+msgid "Related Posts"
+msgstr ""
+
+#: ../functions/general.php:437
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions/general.php:455
+msgid "Post author"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: ../functions/general.php:460
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions/general.php:468
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions/general.php:479
+msgid "Edit"
+msgstr ""
+
+#: ../functions/general.php:485
+msgid "Reply"
+msgstr ""
+
+#: ../functions/general.php:540
+msgid "Previous post"
+msgstr ""
+
+#: ../functions/general.php:565
+msgid "Next post"
+msgstr ""
+
+#: ../functions/general.php:589
+msgid "&laquo; Previous Entries"
+msgstr ""
+
+#: ../functions/general.php:590
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: ../functions/general.php:617
+#, php-format
+msgid "%u posts tagged under %s"
+msgstr ""
+
+#: ../functions/general.php:640
+msgid "Video"
+msgstr ""
+
+#: ../functions/general.php:643 ../taxonomy-post_format.php:46
+msgid "Audio"
+msgstr ""
+
+#: ../functions/general.php:646 ../includes/widgets/photo-gallery.php:119
+msgid "Photo Gallery"
+msgstr ""
+
+#: ../functions/general.php:649
+msgid "Quote"
+msgstr ""
+
+#: ../functions/general.php:652
+msgid "Link"
+msgstr ""
+
+#: ../functions/general.php:655
+msgid "Status"
+msgstr ""
+
+#: ../functions/general.php:658
+msgid "Chat"
+msgstr ""
+
+#: ../functions/general.php:661
+msgid "Aside"
+msgstr ""
+
+#: ../functions/general.php:664
+msgid "Image"
+msgstr ""
+
+#: ../functions/general.php:667
+msgid "Blog Post"
+msgstr ""
+
+#: ../functions/general.php:753
+msgid "No comments"
+msgstr ""
+
+#: ../functions/general.php:753
+msgid "One comment"
+msgstr ""
+
+#: ../functions/general.php:753
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../functions/general.php:776 ../functions/general.php:799
+#: ../includes/widgets/social-profiles.php:66 ../template-about.php:63
+msgid "Facebook"
+msgstr ""
+
+#: ../functions/general.php:777 ../functions/general.php:801
+#: ../includes/metaboxes/metaboxes.php:67
+#: ../includes/widgets/social-profiles.php:70 ../template-about.php:67
+msgid "Twitter"
+msgstr ""
+
+#: ../functions/general.php:778 ../functions/general.php:803
+#: ../includes/metaboxes/metaboxes.php:74
+#: ../includes/widgets/social-profiles.php:74 ../template-about.php:71
+msgid "Google Plus"
+msgstr ""
+
+#: ../functions/general.php:779 ../functions/general.php:805
+#: ../includes/widgets/social-profiles.php:82
+msgid "Pinterest"
+msgstr ""
+
+#: ../functions/general.php:780
+msgid "Reddit"
+msgstr ""
+
+#: ../functions/general.php:781 ../includes/metaboxes/metaboxes.php:81
+#: ../includes/widgets/social-profiles.php:106 ../template-about.php:75
+msgid "LinkedIn"
+msgstr ""
+
+#: ../functions/general.php:821
+msgid "Social profiles"
+msgstr ""
+
+#: ../functions/general.php:826
+msgid "Facebook page"
+msgstr ""
+
+#: ../functions/general.php:830
+msgid "Please enter your Facebook address."
+msgstr ""
+
+#: ../functions/general.php:835
+msgid "Twitter page"
+msgstr ""
+
+#: ../functions/general.php:839
+msgid "Please enter your Twitter address."
+msgstr ""
+
+#: ../functions/general.php:844
+msgid "Google Plus page"
+msgstr ""
+
+#: ../functions/general.php:848
+msgid "Please enter your Google Plus address."
+msgstr ""
+
+#: ../functions/general.php:853
+msgid "Pinterest page"
+msgstr ""
+
+#: ../functions/general.php:857
+msgid "Please enter your Pinterest address."
+msgstr ""
+
+#: ../functions/general.php:984
+msgid "No posts to show for now."
+msgstr ""
+
+#: ../functions/general.php:991
+#, php-format
+msgid "Posted %s"
+msgstr ""
+
+#: ../functions/general.php:1009
+msgid "Latest Posts from Zenoth.com"
+msgstr ""
+
+#: ../functions/init.php:47
+msgid "Top primary menu"
+msgstr ""
+
+#: ../functions/init.php:48
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions/init.php:389
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions/init.php:390
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions/init.php:391
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions/init.php:392
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions/init.php:403
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions/init.php:404
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions/init.php:405
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions/register.php:188
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../functions/register.php:189 ../functions/register.php:199
+msgid "Left Website Sidebar"
+msgstr ""
+
+#: ../functions/register.php:198
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../functions/register.php:208
+msgid "Footer Sidebar"
+msgstr ""
+
+#: ../functions/register.php:246
+msgid "Toggle navigation"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:41
+msgid "Main Menu style"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:46
+msgid "Centered"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:47
+msgid "Full Width"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:59
+msgid "Menu tabs align"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:64
+#: ../includes/metaboxes/metaboxes.php:186
+msgid "Left"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:65
+#: ../includes/metaboxes/metaboxes.php:188
+msgid "Right"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:76
+msgid "Display home icon for full width menu"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:98
+msgid "Logo image"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:111
+msgid "Favicon image"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:124
+msgid "Link logo image to homepage"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:135
+msgid "General"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:138
+msgid "Customize general settings for Nabia theme"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:151
+msgid "Header radius (pixels)"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:165
+msgid "Header border width (pixels)"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:180
+msgid "Posts loading animation on page scroll"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:185
+msgid "None"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:234
+msgid "Content type for homepage posts"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:239
+msgid "Content"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:240
+msgid "Excerpt"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:241
+msgid "Content-Excerpt"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:253
+msgid "Disable breadcrumbs navigation"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:269
+msgid "Post format icons"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:276
+#: ../includes/customizer/customizer.php:1230
+#: ../includes/customizer/customizer.php:1345
+#: ../includes/customizer/customizer.php:1365
+#: ../includes/customizer/customizer.php:1385
+#: ../includes/widgets/facebook-likebox.php:136
+#: ../includes/widgets/facebook-likebox.php:144
+#: ../includes/widgets/facebook-likebox.php:152
+#: ../includes/widgets/facebook-likebox.php:160
+msgid "Enabled"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:277
+#: ../includes/customizer/customizer.php:1231
+#: ../includes/customizer/customizer.php:1346
+#: ../includes/customizer/customizer.php:1366
+#: ../includes/customizer/customizer.php:1386
+#: ../includes/widgets/facebook-likebox.php:137
+#: ../includes/widgets/facebook-likebox.php:145
+#: ../includes/widgets/facebook-likebox.php:153
+#: ../includes/widgets/facebook-likebox.php:161
+msgid "Disabled"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:294
+msgid "Color schemes"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:297
+msgid ""
+"Choose a predefined color scheme or choose CUSTOM to define your own colors."
+msgstr ""
+
+#: ../includes/customizer/customizer.php:310
+msgid "Choose the color scheme."
+msgstr ""
+
+#: ../includes/customizer/customizer.php:315
+msgid "Custom"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:316
+msgid "Orange"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:317
+msgid "Blue"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:318
+msgid "Green"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:319
+msgid "Red"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:320
+msgid "Cherry"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:332
+msgid "Header colors"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:335
+msgid "Customize the aspect of the header."
+msgstr ""
+
+#: ../includes/customizer/customizer.php:348
+msgid "Header background color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:363
+msgid "Header border color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:378
+msgid "Body colors"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:381
+msgid "Customize the aspect of the body elements & buttons."
+msgstr ""
+
+#: ../includes/customizer/customizer.php:393
+msgid "Body text color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:408
+msgid "Body links color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:423
+msgid "Body links hover color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:438
+msgid "Post format icons color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:453
+msgid "Audio player background"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:468
+msgid "Buttons background color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:483
+msgid "Buttons text color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:498
+msgid "Buttons border color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:513
+msgid "Menu colors"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:516
+msgid "Customize the aspect of the menu."
+msgstr ""
+
+#: ../includes/customizer/customizer.php:529
+msgid "Menu Background"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:543
+msgid "Menu border"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:557
+msgid "Menu Tabs"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:571
+msgid "Menu disabled text"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:585
+msgid "Submenu divider color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:599
+msgid "Submenu border color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:613
+msgid "Menu Text"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:627
+msgid "Menu tab hover, active"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:641
+msgid "SubMenu tab hover, active"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:655
+msgid "SubMenu background"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:671
+msgid "Featured carousel colors"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:674
+msgid "Customize the aspect of the featured carousel."
+msgstr ""
+
+#: ../includes/customizer/customizer.php:685
+msgid "Carousel Background image."
+msgstr ""
+
+#: ../includes/customizer/customizer.php:700
+msgid "Carousel Background Color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:715
+msgid "Carousel item color hover"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:729
+msgid "Breadcrumbs colors"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:732
+msgid "Customize the aspect of the breadcrumbs."
+msgstr ""
+
+#: ../includes/customizer/customizer.php:745
+msgid "Breadcrumbs Background Color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:759
+msgid "Breadcrumbs Text Color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:773
+msgid "Breadcrumbs Links Color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:787
+msgid "Sidebar colors."
+msgstr ""
+
+#: ../includes/customizer/customizer.php:790
+msgid "Customize the aspect of the sidebars."
+msgstr ""
+
+#: ../includes/customizer/customizer.php:802
+msgid "Sidebar Background image."
+msgstr ""
+
+#: ../includes/customizer/customizer.php:817
+msgid "Sidebar Background Color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:831
+msgid ""
+"Sidebar transparent background (overridden if a background image is set)."
+msgstr ""
+
+#: ../includes/customizer/customizer.php:846
+msgid "Widget background Color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:860
+msgid "Transparent widget background"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:874
+msgid ""
+"Remove widget area padding (useful when using same background as sidebar)"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:889
+msgid "Widget title color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:904
+msgid "Widget icons color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:919
+msgid "Sidebar text color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:934
+msgid "Sidebar link color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:949
+msgid "Footer colors"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:952
+msgid "Customize the aspect of the footer."
+msgstr ""
+
+#: ../includes/customizer/customizer.php:963
+msgid "Footer background image."
+msgstr ""
+
+#: ../includes/customizer/customizer.php:977
+msgid "Background image repeat"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:982
+msgid "Repeat"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:983
+msgid "Repeat-x"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:984
+msgid "Repeat-y"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:985
+msgid "No-Repeat"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:998
+msgid "Footer background color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1013
+msgid "Footer text color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1028
+msgid "Footer links color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1043
+msgid "Footer Widget title"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1058
+msgid "Footer border color"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1073
+msgid "Footer widgets title bottom border"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1088
+msgid "Footer bottom background"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1103
+msgid "Footer bottom text"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1118
+msgid "Footer bottom links"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1129
+msgid "Fonts"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1132
+msgid "Customize Nabia fonts."
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1145
+msgid "Body Font."
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1159
+msgid "Widget Titles Font."
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1173
+msgid "Post Titles Font."
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1187
+msgid "Menu Font."
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1211
+msgid "Featured Carousel"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1212
+msgid ""
+"Most carousel options cannot be previewed in customizer. This changes will "
+"take place after Save & Publish button is clicked."
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1224
+msgid "Carousel status"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1243
+msgid "Display in featured carousel"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1249
+msgid "Individual posts"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1250
+msgid "Category"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1263
+msgid "Select Category"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1279
+msgid "Autoplay"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1285
+#: ../includes/customizer/customizer.php:1305
+#: ../includes/customizer/customizer.php:1325
+msgid "True"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1286
+#: ../includes/customizer/customizer.php:1306
+#: ../includes/customizer/customizer.php:1326
+msgid "False"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1299
+msgid "Stop On Hover"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1319
+msgid "Navigation arrows"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1339
+msgid "Pagination bullets"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1359
+msgid "Mouse events"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1379
+msgid "Touch events"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1396
+msgid "Footer"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1408
+msgid "Footer Copyright"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1422
+msgid "Google Analytics Tracking ID"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1425
+msgid ""
+"Eg. UA-47765690-1 (you can find the tracking id before tracking code from "
+"Google Analytics account)"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1434
+msgid "Single Post"
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1445
+msgid "Link link single post title to post URL."
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1458
+msgid "Display featured image for single post."
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1471
+msgid "Enable fast post navigation."
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1484
+msgid "Display related posts."
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1497
+msgid "Display increase font size option. "
+msgstr ""
+
+#: ../includes/customizer/customizer.php:1510
+msgid "Display author latest posts tab?. "
+msgstr ""
+
+#: ../includes/metaboxes/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: ../includes/metaboxes/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr ""
+
+#: ../includes/metaboxes/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: ../includes/metaboxes/helpers/cmb_Meta_Box_field.php:459
+msgid "Add Group"
+msgstr ""
+
+#: ../includes/metaboxes/helpers/cmb_Meta_Box_field.php:460
+msgid "Remove Group"
+msgstr ""
+
+#: ../includes/metaboxes/helpers/cmb_Meta_Box_types.php:250
+msgid "Add Row"
+msgstr ""
+
+#: ../includes/metaboxes/helpers/cmb_Meta_Box_types.php:306
+#: ../includes/metaboxes/helpers/cmb_Meta_Box_types.php:706
+#: ../includes/metaboxes/helpers/cmb_Meta_Box_types.php:768
+msgid "Remove"
+msgstr ""
+
+#: ../includes/metaboxes/helpers/cmb_Meta_Box_types.php:601
+#: ../includes/metaboxes/helpers/cmb_Meta_Box_types.php:635
+msgid "No terms"
+msgstr ""
+
+#: ../includes/metaboxes/helpers/cmb_Meta_Box_types.php:674
+#: ../includes/metaboxes/helpers/cmb_Meta_Box_types.php:728
+msgid "Add or Upload File"
+msgstr ""
+
+#: ../includes/metaboxes/helpers/cmb_Meta_Box_types.php:695
+#: ../includes/metaboxes/helpers/cmb_Meta_Box_types.php:760
+msgid "Remove Image"
+msgstr ""
+
+#: ../includes/metaboxes/helpers/cmb_Meta_Box_types.php:706
+#: ../includes/metaboxes/helpers/cmb_Meta_Box_types.php:768
+msgid "File:"
+msgstr ""
+
+#: ../includes/metaboxes/helpers/cmb_Meta_Box_types.php:706
+#: ../includes/metaboxes/helpers/cmb_Meta_Box_types.php:768
+msgid "Download"
+msgstr ""
+
+#: ../includes/metaboxes/init.php:258
+msgid "Clear"
+msgstr ""
+
+#: ../includes/metaboxes/init.php:259
+msgid "Default"
+msgstr ""
+
+#: ../includes/metaboxes/init.php:260
+msgid "Select Color"
+msgstr ""
+
+#: ../includes/metaboxes/init.php:261
+msgid "Current Color"
+msgstr ""
+
+#: ../includes/metaboxes/init.php:288
+msgid "Select / Deselect All"
+msgstr ""
+
+#: ../includes/metaboxes/init.php:1177
+msgid "Save"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:28
+msgid "Post Options"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:36
+msgid "Display in featured carousel?"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:42
+msgid "Yes"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:43
+msgid "No"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:52
+msgid "Social Profiles"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:60
+msgid "Facebook Page"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:61
+msgid "Type the URL to your Facebook page."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:68
+msgid "Type the URL to your Twitter profile."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:75
+msgid "Type the URL to your Google PLus profile."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:82
+msgid "Type the URL to your LinkedIn profile."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:92
+msgid "Short Description About Me"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:100
+msgid "Title"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:101
+msgid "Type a title for short description section."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:107
+msgid "Short Description"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:108
+msgid "Type a short description about you."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:121
+msgid "Custom Header"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:128
+msgid "Header Background"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:129
+msgid ""
+"Override the default header image for this post.Recommended a size of 1185 x "
+"250 pixels."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:134
+msgid "Header Background color"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:135
+#: ../includes/metaboxes/metaboxes.php:161
+msgid "This color will be used if the chosen image will fail to load."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:147
+msgid "Custom Background"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:154
+msgid "Background Image"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:155
+msgid "Override the default background image for this post."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:160
+msgid "Background color"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:167
+msgid "Background Repeat"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:168
+msgid "Choose if background image will repeat."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:173
+msgid "No Repeat"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:174
+msgid "Tile"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:175
+msgid "Tile Horizontally"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:176
+msgid "Tile Vertically"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:180
+msgid "Background Position"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:181
+msgid "Choose the background image position."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:187
+msgid "Center"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:192
+msgid "Background Attachment"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:193
+msgid "Choose if background will be fixed or will scroll."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:198
+msgid "Fixed"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:199
+msgid "Scroll"
+msgstr ""
+
+#: ../includes/widgets/about-author.php:26
+msgid "A widget to display few things about blog author."
+msgstr ""
+
+#: ../includes/widgets/about-author.php:29
+msgid "Nabia: About Author"
+msgstr ""
+
+#: ../includes/widgets/about-author.php:127
+msgid "About Author"
+msgstr ""
+
+#: ../includes/widgets/about-author.php:133
+msgid "Few things about the blog author."
+msgstr ""
+
+#: ../includes/widgets/about-author.php:148
+#: ../includes/widgets/facebook-likebox.php:111
+#: ../includes/widgets/login-form.php:117
+#: ../includes/widgets/photo-gallery.php:125
+#: ../includes/widgets/recent-posts-comments.php:264
+#: ../includes/widgets/social-profiles.php:181
+msgid "Title:"
+msgstr ""
+
+#: ../includes/widgets/about-author.php:153
+msgid "Image 1:"
+msgstr ""
+
+#: ../includes/widgets/about-author.php:155
+#: ../includes/widgets/about-author.php:160
+#: ../includes/widgets/about-author.php:165
+#: ../includes/widgets/about-author.php:170
+#: ../includes/widgets/about-author.php:175
+msgid "Upload Image"
+msgstr ""
+
+#: ../includes/widgets/about-author.php:158
+msgid "Image 2:"
+msgstr ""
+
+#: ../includes/widgets/about-author.php:163
+msgid "Image 3:"
+msgstr ""
+
+#: ../includes/widgets/about-author.php:168
+msgid "Image 4:"
+msgstr ""
+
+#: ../includes/widgets/about-author.php:173
+msgid "Image 5:"
+msgstr ""
+
+#: ../includes/widgets/about-author.php:179
+msgid "Description:"
+msgstr ""
+
+#: ../includes/widgets/about-author.php:186
+msgid "Enable slider autoplay"
+msgstr ""
+
+#: ../includes/widgets/facebook-likebox.php:26
+msgid "A widget that allows you to promote your Facebook page."
+msgstr ""
+
+#: ../includes/widgets/facebook-likebox.php:28
+msgid "Nabia: Facebook Likebox"
+msgstr ""
+
+#: ../includes/widgets/facebook-likebox.php:93
+msgid "Facebook Likebox"
+msgstr ""
+
+#: ../includes/widgets/facebook-likebox.php:116
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: ../includes/widgets/facebook-likebox.php:121
+msgid "Color scheme:"
+msgstr ""
+
+#: ../includes/widgets/facebook-likebox.php:123
+msgid "Light"
+msgstr ""
+
+#: ../includes/widgets/facebook-likebox.php:124
+msgid "Dark"
+msgstr ""
+
+#: ../includes/widgets/facebook-likebox.php:129
+msgid "Background color:"
+msgstr ""
+
+#: ../includes/widgets/facebook-likebox.php:134
+msgid "Show faces:"
+msgstr ""
+
+#: ../includes/widgets/facebook-likebox.php:142
+msgid "Show header:"
+msgstr ""
+
+#: ../includes/widgets/facebook-likebox.php:150
+msgid "Stream:"
+msgstr ""
+
+#: ../includes/widgets/facebook-likebox.php:158
+msgid "Box border:"
+msgstr ""
+
+#: ../includes/widgets/login-form.php:26
+msgid "A widget to display a nice login form."
+msgstr ""
+
+#: ../includes/widgets/login-form.php:29
+msgid "Nabia: Login Form"
+msgstr ""
+
+#: ../includes/widgets/login-form.php:52
+msgid "Username"
+msgstr ""
+
+#: ../includes/widgets/login-form.php:53
+msgid "Password"
+msgstr ""
+
+#: ../includes/widgets/login-form.php:54
+msgid "Remember me"
+msgstr ""
+
+#: ../includes/widgets/login-form.php:55
+#: ../includes/widgets/login-form.php:110
+msgid "Login"
+msgstr ""
+
+#: ../includes/widgets/login-form.php:60
+msgid "Register"
+msgstr ""
+
+#: ../includes/widgets/login-form.php:61
+msgid "Lost Password"
+msgstr ""
+
+#: ../includes/widgets/login-form.php:83
+msgid "User settings"
+msgstr ""
+
+#: ../includes/widgets/login-form.php:85
+msgid "Admin panel"
+msgstr ""
+
+#: ../includes/widgets/login-form.php:87
+msgid "Logout"
+msgstr ""
+
+#: ../includes/widgets/login-form.php:112
+msgid "You are logged in as #user_nickname#"
+msgstr ""
+
+#: ../includes/widgets/login-form.php:122
+msgid "Welcome message:"
+msgstr ""
+
+#: ../includes/widgets/login-form.php:124
+msgid ""
+"You can type #user_nickname# in the welcome message to display user nickname."
+msgstr ""
+
+#: ../includes/widgets/login-form.php:128
+msgid "Display avatar image?"
+msgstr ""
+
+#: ../includes/widgets/photo-gallery.php:29
+msgid "A widget to display a photo gallery."
+msgstr ""
+
+#: ../includes/widgets/photo-gallery.php:32
+msgid "Nabia: Photo Gallery"
+msgstr ""
+
+#: ../includes/widgets/photo-gallery.php:95
+msgid "No photo gallery to display."
+msgstr ""
+
+#: ../includes/widgets/photo-gallery.php:130
+msgid "Post:"
+msgstr ""
+
+#: ../includes/widgets/photo-gallery.php:143
+msgid "Select a post"
+msgstr ""
+
+#: ../includes/widgets/photo-gallery.php:152
+msgid "You don't have any posts under the Gallery post format. Please add one."
+msgstr ""
+
+#: ../includes/widgets/recent-posts-comments.php:26
+msgid "A widget to display the most recent posts & comments."
+msgstr ""
+
+#: ../includes/widgets/recent-posts-comments.php:29
+msgid "Nabia: Recent Posts / Comments"
+msgstr ""
+
+#: ../includes/widgets/recent-posts-comments.php:52
+msgid "Recent Posts"
+msgstr ""
+
+#: ../includes/widgets/recent-posts-comments.php:53
+msgid "Commments"
+msgstr ""
+
+#: ../includes/widgets/recent-posts-comments.php:206
+msgid "on"
+msgstr ""
+
+#: ../includes/widgets/recent-posts-comments.php:252
+msgid "Recent Posts & Comments"
+msgstr ""
+
+#: ../includes/widgets/recent-posts-comments.php:269
+msgid "Number of posts:"
+msgstr ""
+
+#: ../includes/widgets/recent-posts-comments.php:274
+msgid "Number of comments:"
+msgstr ""
+
+#: ../includes/widgets/social-profiles.php:26
+msgid "A widget that allows you to promote your social profiles."
+msgstr ""
+
+#: ../includes/widgets/social-profiles.php:29
+msgid "Nabia: Social Profiles"
+msgstr ""
+
+#: ../includes/widgets/social-profiles.php:78
+msgid "YouTube"
+msgstr ""
+
+#: ../includes/widgets/social-profiles.php:86
+msgid "Viemo"
+msgstr ""
+
+#: ../includes/widgets/social-profiles.php:90
+msgid "Tumblr"
+msgstr ""
+
+#: ../includes/widgets/social-profiles.php:94
+msgid "Instagram"
+msgstr ""
+
+#: ../includes/widgets/social-profiles.php:98
+msgid "Rss Feed"
+msgstr ""
+
+#: ../includes/widgets/social-profiles.php:102
+msgid "Flickr"
+msgstr ""
+
+#: ../includes/widgets/social-profiles.php:110
+msgid "Dribbble"
+msgstr ""
+
+#: ../includes/widgets/social-profiles.php:148
+msgid "Follow us"
+msgstr ""
+
+#: ../includes/widgets/social-profiles.php:186
+msgid "Facebook Page:"
+msgstr ""
+
+#: ../includes/widgets/social-profiles.php:191
+msgid "Twitter Page:"
+msgstr ""
+
+#: ../includes/widgets/social-profiles.php:196
+msgid "Google Plus Profile:"
+msgstr ""
+
+#: ../includes/widgets/social-profiles.php:201
+msgid "Youtube Channel:"
+msgstr ""
+
+#: ../includes/widgets/social-profiles.php:206
+msgid "Pinterest:"
+msgstr ""
+
+#: ../includes/widgets/social-profiles.php:211
+msgid "Vimeo page:"
+msgstr ""
+
+#: ../includes/widgets/social-profiles.php:216
+msgid "Tumblr page:"
+msgstr ""
+
+#: ../includes/widgets/social-profiles.php:221
+msgid "Instagram profile:"
+msgstr ""
+
+#: ../includes/widgets/social-profiles.php:226
+msgid "Flickr:"
+msgstr ""
+
+#: ../includes/widgets/social-profiles.php:231
+msgid "LinkedIn:"
+msgstr ""
+
+#: ../includes/widgets/social-profiles.php:236
+msgid "Dribbble profile:"
+msgstr ""
+
+#: ../includes/widgets/social-profiles.php:241
+msgid "Rss Feed:"
+msgstr ""
+
+#: ../search.php:28
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:15
+msgid "Search"
+msgstr ""
+
+#: ../single.php:58
+#, php-format
+msgid "Posted by: %s"
+msgstr ""
+
+#: ../single.php:59
+msgid "Category:"
+msgstr ""
+
+#: ../single.php:61
+msgid "Share this post:"
+msgstr ""
+
+#: ../single.php:71
+msgid "Edit post"
+msgstr ""
+
+#: ../single.php:76
+msgid "Font size"
+msgstr ""
+
+#: ../single.php:88
+msgid "Continue Reading"
+msgstr ""
+
+#: ../single.php:99
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../single.php:102
+msgid "About"
+msgstr ""
+
+#: ../single.php:104
+msgid "Latest Posts"
+msgstr ""
+
+#: ../tag.php:30
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../taxonomy-post_format.php:34
+msgid "Asides"
+msgstr ""
+
+#: ../taxonomy-post_format.php:38
+msgid "Images"
+msgstr ""
+
+#: ../taxonomy-post_format.php:42
+msgid "Videos"
+msgstr ""
+
+#: ../taxonomy-post_format.php:50
+msgid "Quotes"
+msgstr ""
+
+#: ../taxonomy-post_format.php:54
+msgid "Links"
+msgstr ""
+
+#: ../taxonomy-post_format.php:58
+msgid "Photo Galleries"
+msgstr ""
+
+#: ../taxonomy-post_format.php:62
+msgid "Chat Archives"
+msgstr ""
+
+#: ../taxonomy-post_format.php:66
+msgid "Statuses"
+msgstr ""
